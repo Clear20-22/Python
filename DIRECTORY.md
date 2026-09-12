@@ -533,7 +533,9 @@
   * [Geometry](geometry/geometry.py)
   * [Graham Scan](geometry/graham_scan.py)
   * [Jarvis March](geometry/jarvis_march.py)
+  * [Monotone Chain](geometry/monotone_chain.py)
   * [Ramer Douglas Peucker](geometry/ramer_douglas_peucker.py)
+  * [Rotating Calipers](geometry/rotating_calipers.py)
   * [Segment Intersection](geometry/segment_intersection.py)
   * Tests
     * [Test Graham Scan](geometry/tests/test_graham_scan.py)
@@ -672,6 +674,7 @@
   * [Data Transformations](machine_learning/data_transformations.py)
   * [Decision Tree](machine_learning/decision_tree.py)
   * [Dimensionality Reduction](machine_learning/dimensionality_reduction.py)
+  * [Federated Averaging](machine_learning/federated_averaging.py)
   * Forecasting
     * [Run](machine_learning/forecasting/run.py)
   * [Frequent Pattern Growth](machine_learning/frequent_pattern_growth.py)
@@ -680,9 +683,11 @@
   * [Gradient Boosting Regressor](machine_learning/gradient_boosting_regressor.py)
   * [Gradient Descent](machine_learning/gradient_descent.py)
   * [K Means Clust](machine_learning/k_means_clust.py)
+  * [K Medoids](machine_learning/k_medoids.py)
   * [K Nearest Neighbours](machine_learning/k_nearest_neighbours.py)
   * [Linear Discriminant Analysis](machine_learning/linear_discriminant_analysis.py)
   * [Linear Regression](machine_learning/linear_regression.py)
+  * [Linear Regression Vectorized](machine_learning/linear_regression_vectorized.py)
   * Local Weighted Learning
     * [Local Weighted Learning](machine_learning/local_weighted_learning/local_weighted_learning.py)
   * [Logistic Regression](machine_learning/logistic_regression.py)
@@ -944,6 +949,12 @@
   * [Back Propagation Neural Network](neural_network/back_propagation_neural_network.py)
   * [Convolution Neural Network](neural_network/convolution_neural_network.py)
   * [Input Data](neural_network/input_data.py)
+  * Optimizers
+    * [Adagrad](neural_network/optimizers/adagrad.py)
+    * [Adam Optimizer](neural_network/optimizers/adam_optimizer.py)
+    * [Momentum Sgd](neural_network/optimizers/momentum_sgd.py)
+    * [Muon Optimizer](neural_network/optimizers/muon_optimizer.py)
+    * [Nesterov Accelerated Sgd](neural_network/optimizers/nesterov_accelerated_sgd.py)
   * [Perceptron](neural_network/perceptron.py)
   * [Simple Neural Network](neural_network/simple_neural_network.py)
   * [Two Hidden Layers Neural Network](neural_network/two_hidden_layers_neural_network.py)
